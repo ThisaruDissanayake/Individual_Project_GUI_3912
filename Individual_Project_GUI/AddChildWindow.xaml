@@ -15,7 +15,7 @@
 
         <Border CornerRadius="15">
             <Border.Background>
-                <ImageBrush ImageSource="D:\guI\Individual_Project_GUI\Individual_Project_GUI\Images\R.jpg"
+                <ImageBrush ImageSource="\Images\R.jpg"
                             Stretch="None"/>
             </Border.Background>
 
@@ -44,7 +44,7 @@
                         <StackPanel Orientation="Horizontal"
                                 Height="100"
                                 Margin="150,25,0,10" >
-                            <Image Source="D:\guI\Individual_Project_GUI\Individual_Project_GUI\Images\education-logo-design.jpg"
+                            <Image Source="\Images\education-logo-design.jpg"
                                Height="100"/>
                             <StackPanel Orientation="Vertical">
                                 <TextBlock Text="BOOK EDUCATION PVT.CM"

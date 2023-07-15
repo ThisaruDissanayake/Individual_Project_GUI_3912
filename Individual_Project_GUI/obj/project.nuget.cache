@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0fH6MyGp0qZOUXJegjgqDGbqeAwkN85DLbSu+VGhktKHrarDE1SaTGNsLlDs7Gid/2OjYg5U8r3aPKzjsVPDRg==",
+  "dgSpecHash": "/dYD6RpBaKPnGCysspXiN4vInakDX/+hjfhV5wAgT2G57pL/bp4/+xv1k+ED+P8MkvMw2Zpr5dK7Z/FHXz7T2g==",
   "success": true,
-  "projectFilePath": "D:\\guI\\Individual_Project_GUI\\Individual_Project_GUI\\Individual_Project_GUI.csproj",
+  "projectFilePath": "D:\\guI\\New folder\\Individual_Project_GUI\\Individual_Project_GUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asd\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512"
   ],

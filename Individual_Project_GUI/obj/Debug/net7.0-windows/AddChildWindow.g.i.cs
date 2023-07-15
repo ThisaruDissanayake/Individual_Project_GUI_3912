@@ -53,7 +53,7 @@ namespace Individual_Project_GUI {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Individual_Project_GUI;component/addchildwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Individual_Project_GUI;V1.0.0.0;component/addchildwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AddChildWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

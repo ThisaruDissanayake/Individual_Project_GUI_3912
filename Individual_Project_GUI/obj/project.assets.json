@@ -64,11 +64,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\guI\\Individual_Project_GUI\\Individual_Project_GUI\\Individual_Project_GUI.csproj",
+      "projectUniqueName": "D:\\guI\\New folder\\Individual_Project_GUI\\Individual_Project_GUI.csproj",
       "projectName": "Individual_Project_GUI",
-      "projectPath": "D:\\guI\\Individual_Project_GUI\\Individual_Project_GUI\\Individual_Project_GUI.csproj",
+      "projectPath": "D:\\guI\\New folder\\Individual_Project_GUI\\Individual_Project_GUI.csproj",
       "packagesPath": "C:\\Users\\asd\\.nuget\\packages\\",
-      "outputPath": "D:\\guI\\Individual_Project_GUI\\Individual_Project_GUI\\obj\\",
+      "outputPath": "D:\\guI\\New folder\\Individual_Project_GUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asd\\AppData\\Roaming\\NuGet\\NuGet.Config",
